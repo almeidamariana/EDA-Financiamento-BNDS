@@ -24,6 +24,7 @@ Link para download dos dois arquivos csv contendo os microdados:
 - https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento/resource/9534f677-9525-4bf8-a3aa-fd5d3e152a93
 - https://dadosabertos.bndes.gov.br/dataset/operacoes-financiamento/resource/332d446e-d340-46ef-af64-ee6f36e7bd50
 
+
 ### **Porque fazer essa Análise Exploratória de Dados?**
 
 Tem-se o interesse em obter um panorama das operações de financiamento.
